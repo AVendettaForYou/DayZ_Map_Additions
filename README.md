@@ -1,4 +1,4 @@
-DayZ Custom Map Additons
+DayZ Custom Map Additions
 ============
 
 <b>Items Needed:</b>
