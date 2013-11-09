@@ -71,6 +71,10 @@ Pack up your server folder into pbo format and upload it to your server and you 
 
 <b>CHANGELOG:</b>
 
+<b>09/11/13</b>
+
+- [UPCOMING] Taviana Epoch Map Additons including custom trader cities (Release Date TBA).
+
 <b>11/10/2013</b>
 
 - [ADDED] Skalisty Military Refuge, Elektro Addons, Abandoned Military Camps.
