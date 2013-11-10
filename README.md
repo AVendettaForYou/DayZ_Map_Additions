@@ -6,6 +6,9 @@ DayZ Custom Map Additions
 - PboView/PboManager
 - Server.pbo
 
+<b>DISCLAIMER: THESE ARE ALL DESIGNED FOR CLEAR ROADS, IF YOU ARE USING OVERWATCH I SUGGEST YOU REMOVE THE MAIN.SQF FROM THE BUILDINGS FOLDER TO PREVENT BUILDINGS SPAWNING IN EACH OTHER.
+THE REGULAR DAYZ BUILDINGS WILL ALSO WORK ON OVERWATCH AND EPOCH, THE ONLY THING THAT YOU SHOULD REMOVE FROM THE REGULAR DAYZ ADDONS IS THE STARY SOBOR ADDONS, SINCE THEY WILL SPAWN IN THE TRADER ZONE.</b>
+
 ============
 
 <b>Regular DayZ</b>
@@ -62,10 +65,6 @@ Open server/init/server_functions.sqf and add these lines to the bottom.
 		call compile preProcessFileLineNumbers "\z\addons\dayz_server\buildingsepo\epochcherno.sqf";
 
 Pack up your server folder into pbo format and upload it to your server and you will be finished.
-
-============
-
-<b>DISCLAIMER: THESE ARE ALL DESIGNED FOR CLEAR ROADS, IF YOU ARE USING OVERWATCH I SUGGEST YOU REMOVE THE MAIN.SQF FROM THE BUILDINGS FOLDER TO PREVENT BUILDINGS SPAWNING IN EACH OTHER.</b>
 
 ============
 
